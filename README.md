@@ -13,6 +13,10 @@ I am currently pursuing a Master's degree in Computer Software Engineering at th
 - Anisble Tower
 - SaltStack
 - Qumulo
+- Python
+- Shell Scripting
+- Linux Administration
+- Windows Administration
 
 📫 Connect with Me
 
