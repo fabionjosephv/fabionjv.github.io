@@ -1,0 +1,10 @@
+.photo-container {
+    position: relative;
+    display: inline-block;
+}
+
+.photo {
+    width: 300px;
+    height: auto;
+    cursor: pointer;
+}
